@@ -70,7 +70,7 @@ section
     p.mb-0 Lo anterior define el comportamiento emprendedor, el cual se encuentra en mayor o menor medida dentro de la estructura de personalidad de los individuos, condicionado por sus fortalezas y debilidades. El fortalecimiento del comportamiento emprendedor permite obtener resultados cada vez más eficaces en tareas diarias, lo que lleva a las personas a ser más competitivas en los diferentes ámbitos de la vida cotidiana. 
       br
       br
-      | El propósito del presente programa de formación es ayudar al aprendiz a identificar su comportamiento emprendedor a partir de tres elementos, características emprendedoras personales (CEP’s), triángulo de la responsabilidad y competencias emprendedoras; aplicados a cuatro temas que son de especial relevancia para el día a día: proceso de toma de decisiones, creatividad, estrategia y negociación.
+      | El propósito del presente programa de formación es ayudar al aprendiz a identificar su comportamiento emprendedor a partir de tres elementos, características emprendedoras personales (CEP’s), triángulo de la responsabilidad y competencias emprendedoras; aplicados a cuatro temas que son de especial relevancia para el día a día: proceso de toma de decisiones, creatividad, estrategia y negociación.  
 
 
   .container.tarjeta.tarjeta__template--azul-claro.p-4.p-md-5.mb-5(data-aos="fade-up")
